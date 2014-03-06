@@ -1,4 +1,5 @@
-recipes
-=======
+# Recipe repo
 
-Test recipe repo
+This is a recipe repo
+
+
